@@ -1,0 +1,11 @@
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\Microsoft Virtual Storage Homeopathy Desk.VB 2018.csprojAssemblyReference.cache
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\App.g.i.cs
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\App.g.cs
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\MainPage.g.cs
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\App.xaml
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\MainPage.xaml
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\App.xbf
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\MainPage.xbf
+C:\Users\aydua\source\repos\Microsoft Virtual Storage Homeopathy Desk.VB 2018\Microsoft Virtual Storage Homeopathy Desk.VB 2018\obj\ARM\Release\XamlSaveStateFile.xml
